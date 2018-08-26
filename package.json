@@ -1,13 +1,18 @@
 {
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
+  "name": "sample-bot",
+  "version": "0.0.1",
+  "description": "Example discord bot by using discord.js",
   "main": "SarkCezBot.js",
-  "scripts": {
-    "start": "node SarkCezBot.js"
-  },
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
-  }
+    "discord.js": "^10.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "up2up"
 }
