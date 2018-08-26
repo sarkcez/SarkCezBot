@@ -63,4 +63,4 @@ bot.on("message", (msg) => {
     }
 });
 
-SarkCezBot.login('NDgyOTc2NjIxMDQ1ODc0Njg5.DmQR6Q.dt1f7L6nRhV3U7EWZ_yAY0Z6RgQ');
+bot.login('NDgyOTc2NjIxMDQ1ODc0Njg5.DmQR6Q.dt1f7L6nRhV3U7EWZ_yAY0Z6RgQ');
